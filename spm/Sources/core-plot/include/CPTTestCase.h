@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTTestCase.h
+../../../../framework/Source/CPTTestCase.h

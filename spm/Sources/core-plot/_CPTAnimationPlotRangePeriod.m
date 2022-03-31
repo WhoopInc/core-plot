@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTAnimationPlotRangePeriod.m
+../../../framework/Source/_CPTAnimationPlotRangePeriod.m

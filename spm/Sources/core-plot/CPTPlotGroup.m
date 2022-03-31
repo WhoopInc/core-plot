@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTPlotGroup.m
+../../../framework/Source/CPTPlotGroup.m

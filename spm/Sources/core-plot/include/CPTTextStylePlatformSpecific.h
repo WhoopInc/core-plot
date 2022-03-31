@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/iPhoneOnly/CPTTextStylePlatformSpecific.h
+../../../../framework/iPhoneOnly/CPTTextStylePlatformSpecific.h

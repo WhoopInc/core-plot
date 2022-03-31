@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTPlainWhiteTheme.m
+../../../framework/Source/_CPTPlainWhiteTheme.m

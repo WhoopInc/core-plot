@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTGridLines.m
+../../../framework/Source/CPTGridLines.m

@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTMutableTextStyle.m
+../../../framework/Source/CPTMutableTextStyle.m

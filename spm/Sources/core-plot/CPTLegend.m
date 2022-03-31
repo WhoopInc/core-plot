@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTLegend.m
+../../../framework/Source/CPTLegend.m

@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/mainpage.h
+../../../../framework/Source/mainpage.h

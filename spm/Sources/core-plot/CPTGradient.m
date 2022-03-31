@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTGradient.m
+../../../framework/Source/CPTGradient.m

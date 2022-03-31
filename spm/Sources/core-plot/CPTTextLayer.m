@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTTextLayer.m
+../../../framework/Source/CPTTextLayer.m

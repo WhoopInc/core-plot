@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTResponder.h
+../../../../framework/Source/CPTResponder.h

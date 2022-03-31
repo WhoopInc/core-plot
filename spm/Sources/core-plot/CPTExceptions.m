@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTExceptions.m
+../../../framework/Source/CPTExceptions.m

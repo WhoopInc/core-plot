@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTTimeFormatter.h
+../../../../framework/Source/CPTTimeFormatter.h

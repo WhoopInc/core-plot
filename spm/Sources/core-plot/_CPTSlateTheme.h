@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTSlateTheme.h
+../../../framework/Source/_CPTSlateTheme.h

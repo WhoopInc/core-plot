@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTFillGradient.h
+../../../framework/Source/_CPTFillGradient.h

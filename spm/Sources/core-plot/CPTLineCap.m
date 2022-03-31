@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTLineCap.m
+../../../framework/Source/CPTLineCap.m

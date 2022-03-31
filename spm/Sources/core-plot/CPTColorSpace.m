@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTColorSpace.m
+../../../framework/Source/CPTColorSpace.m

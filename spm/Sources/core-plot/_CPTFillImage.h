@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTFillImage.h
+../../../framework/Source/_CPTFillImage.h

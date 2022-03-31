@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTMaskLayer.h
+../../../framework/Source/_CPTMaskLayer.h

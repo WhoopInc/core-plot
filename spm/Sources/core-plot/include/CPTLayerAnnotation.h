@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTLayerAnnotation.h
+../../../../framework/Source/CPTLayerAnnotation.h

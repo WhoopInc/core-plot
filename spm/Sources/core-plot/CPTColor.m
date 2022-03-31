@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTColor.m
+../../../framework/Source/CPTColor.m

@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTDerivedXYGraph.h
+../../../../framework/Source/CPTDerivedXYGraph.h

@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTXYTheme.m
+../../../framework/Source/_CPTXYTheme.m

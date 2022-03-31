@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTMutableNumericData.h
+../../../../framework/Source/CPTMutableNumericData.h

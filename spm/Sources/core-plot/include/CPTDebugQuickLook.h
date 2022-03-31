@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTDebugQuickLook.h
+../../../../framework/Source/CPTDebugQuickLook.h

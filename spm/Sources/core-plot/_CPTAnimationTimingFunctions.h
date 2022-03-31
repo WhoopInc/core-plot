@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTAnimationTimingFunctions.h
+../../../framework/Source/_CPTAnimationTimingFunctions.h

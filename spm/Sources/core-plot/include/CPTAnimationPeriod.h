@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTAnimationPeriod.h
+../../../../framework/Source/CPTAnimationPeriod.h

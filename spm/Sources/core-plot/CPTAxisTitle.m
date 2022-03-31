@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTAxisTitle.m
+../../../framework/Source/CPTAxisTitle.m

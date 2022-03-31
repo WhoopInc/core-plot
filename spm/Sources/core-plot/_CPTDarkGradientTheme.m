@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTDarkGradientTheme.m
+../../../framework/Source/_CPTDarkGradientTheme.m

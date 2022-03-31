@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTTextStyle.h
+../../../../framework/Source/CPTTextStyle.h

@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTAxisLabel.m
+../../../framework/Source/CPTAxisLabel.m

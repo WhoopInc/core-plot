@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTScatterPlot.h
+../../../../framework/Source/CPTScatterPlot.h

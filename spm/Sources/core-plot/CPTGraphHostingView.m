@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/iPhoneOnly/CPTGraphHostingView.m
+../../../framework/iPhoneOnly/CPTGraphHostingView.m

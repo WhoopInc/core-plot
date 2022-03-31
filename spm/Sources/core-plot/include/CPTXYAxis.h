@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTXYAxis.h
+../../../../framework/Source/CPTXYAxis.h

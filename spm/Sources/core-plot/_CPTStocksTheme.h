@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTStocksTheme.h
+../../../framework/Source/_CPTStocksTheme.h

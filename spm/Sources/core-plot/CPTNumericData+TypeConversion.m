@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTNumericData+TypeConversion.m
+../../../framework/Source/CPTNumericData+TypeConversion.m

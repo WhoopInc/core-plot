@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTAnimationOperation.m
+../../../framework/Source/CPTAnimationOperation.m

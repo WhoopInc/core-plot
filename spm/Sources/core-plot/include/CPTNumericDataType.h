@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTNumericDataType.h
+../../../../framework/Source/CPTNumericDataType.h

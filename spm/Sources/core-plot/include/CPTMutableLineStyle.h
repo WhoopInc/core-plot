@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTMutableLineStyle.h
+../../../../framework/Source/CPTMutableLineStyle.h

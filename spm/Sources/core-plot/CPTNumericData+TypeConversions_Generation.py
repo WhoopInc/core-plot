@@ -1,1 +1,0 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTNumericData+TypeConversions_Generation.py

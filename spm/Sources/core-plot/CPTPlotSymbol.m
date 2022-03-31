@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTPlotSymbol.m
+../../../framework/Source/CPTPlotSymbol.m

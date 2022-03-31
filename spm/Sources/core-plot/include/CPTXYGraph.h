@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTXYGraph.h
+../../../../framework/Source/CPTXYGraph.h

@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTDefinitions.h
+../../../../framework/Source/CPTDefinitions.h

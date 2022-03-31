@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/_CPTAnimationNSDecimalPeriod.h
+../../../framework/Source/_CPTAnimationNSDecimalPeriod.h

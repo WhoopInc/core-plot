@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTTradingRangePlot.h
+../../../../framework/Source/CPTTradingRangePlot.h

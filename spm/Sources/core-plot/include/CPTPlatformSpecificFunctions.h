@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/iPhoneOnly/CPTPlatformSpecificFunctions.h
+../../../../framework/iPhoneOnly/CPTPlatformSpecificFunctions.h

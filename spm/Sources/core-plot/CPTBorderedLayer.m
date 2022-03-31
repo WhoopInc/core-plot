@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTBorderedLayer.m
+../../../framework/Source/CPTBorderedLayer.m

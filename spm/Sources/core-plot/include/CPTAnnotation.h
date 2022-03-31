@@ -1,1 +1,1 @@
-/Users/joe/Desktop/CorePlot/core-plot-fork/framework/Source/CPTAnnotation.h
+../../../../framework/Source/CPTAnnotation.h
