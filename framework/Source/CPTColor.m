@@ -542,7 +542,7 @@
 
 -(nullable id)debugQuickLookObject
 {
-#if TARGET_OS_SIMULATOR || TARGET_OS_IPHONE || TARGET_OS_MACCATALYST
+#if TARGET_OS_SIMULATOR || TARGET_OS_IPHONE
     return self.uiColor;
 
 #else
