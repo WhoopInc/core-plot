@@ -1,3 +1,6 @@
+#import <CoreGraphics/CoreGraphics.h>
+#import <Foundation/Foundation.h>
+
 @interface CPTConstraints : NSObject<NSCopying, NSCoding, NSSecureCoding>
 
 /// @name Factory Methods

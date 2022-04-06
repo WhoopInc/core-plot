@@ -1,3 +1,5 @@
+#import "CPTPlatformSpecificDefines.h"
+
 @interface CPTColor : NSObject<NSCopying, NSCoding, NSSecureCoding>
 
 @property (nonatomic, readonly, nonnull) CGColorRef cgColor;
