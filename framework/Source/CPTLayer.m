@@ -6,7 +6,6 @@
 #import "CPTPlatformSpecificFunctions.h"
 #import "CPTShadow.h"
 #import "CPTUtilities.h"
-#import "CorePlotProbes.h"
 #import "NSCoderExtensions.h"
 #import <objc/runtime.h>
 #import <tgmath.h>
