@@ -1,3 +1,4 @@
+#import <UIKit/UIKit.h>
 /// @file
 
 typedef UIImage CPTNativeImage; ///< Platform-native image format.
